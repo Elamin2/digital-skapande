@@ -1,0 +1,33 @@
+ 
+
+ body {
+    background-color: rgb(120, 106, 172);
+    margin: 0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    
+  }
+
+  h1, h2 {
+    margin-top: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+
+    }
+
+    p {
+        text-align: left;
+        margin-top: 20px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-style: italic;
+        font-size: larger;
+        color: rgb(0, 0, 0)
+        
+    
+        }
+    
+
+
+
+
+   
